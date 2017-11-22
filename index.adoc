@@ -1,0 +1,141 @@
+= Photoshop Installation
+:imagesdir: images
+:doctype: article
+:experimental:
+:icons: font
+:toc: left
+:toc-title: Inhalt
+
+== Mac
+
+. Lade Photoshop CC 2015 in der 64-Bit Version herunter.
+.. Klicke https://helpx.adobe.com/premiere-elements/kb/premiere-elements-downloads.html?red=a&tduid=b95dd8aa6c7badbb81560a1a3dec9cca&url=https://helpx.adobe.com/premiere-elements/kb/premiere-elements-downloads.html[>>Hier<<] bevor du den Link im nächsten Schritt besuchst.
+.. Klicke http://prodesigntools.com/trials3/AdobeProducts/PHSP/16/osx10/Photoshop_16_LS20.dmg[>>Hier<<] um Photoshop herunterzuladen.
+
+. Lade den Crack herunter: https://www.mediafire.com/file/6g8wbfirdf5d88u/rainbow.dmg (SHA-1 Hash: FA6A234DEC9BD736072D9E237CFD2993BA007E4C)
+. Folge den Schritten in der Anleitung: https://drive.google.com/file/d/0BxfywKwnIU2JY1RxV0M0U0J1Z1E/view
+
+
+== Windows
+
+=== Photoshop installieren
+
+. Lade Photoshop CC 2015 in der 64-Bit Version herunter.
+.. Klicke https://helpx.adobe.com/premiere-elements/kb/premiere-elements-downloads.html?red=a&tduid=b95dd8aa6c7badbb81560a1a3dec9cca&url=https://helpx.adobe.com/premiere-elements/kb/premiere-elements-downloads.html[>>Hier<<] bevor du den Link im nächsten Schritt besuchst.
+.. Klicke http://prodesigntools.com/trials3/AdobeProducts/PHSP/16/win64/Photoshop_16_LS20_win64.7z[>>Hier<<] um Photoshop herunterzuladen.
+. Entpacke das heruntergeladene Archiv auf den Desktop.
+. Laden den Crack "amtemu.v0.9.2-painter.exe" herunter: https://mega.nz/#F!5vBWFbpb!gdRwoiNcB2CSmEf_-4wkWA (SHA-1 Hash: CAAD125358D2AE6D217E74CFCD175AC81C43C729)
+
+. Deaktiviere die Internetverbindung.
+. Öffne die Datei *"Set-up.exe"* in dem vorher entpackten Ordner *"Adobe CC 2015"*.
+. Klicke auf *"Try"*.
+. Klicke auf btn:[Sign In].
+. Klicke auf btn:[Sign In Later].😄
+. Klicke auf btn:[Accept] und starte die Installation mit einem Klick auf btn:[Install].
+. Schließe den Installer mit einem Klick auf btn:[Close].
+. Du kannst deine Internetverbindung jetzt wieder aktivieren.
+
+=== Kopierschutz deaktivieren
+
+. Öffne die vorher heruntergeladene Datei *amtemu.v0.9.2-painter.exe*.
+. Klicke auf das Auswahlmenü und wähle *"Adobe Photoshop CC 2015.5"*.
+. Klicke auf btn:[Install]
+. Öffne die Datei *amtlib.dll* im Verzeichnis `C:\Programme\Adobe\Adobe Photoshop CC 2015`
+. Schließe das Fenster.
+
+Photoshop ist nun aktiviert und kann gestartet werden.
+
+== Linux (Ubuntu/Mint)
+
+=== Vorbereitung
+
+. Installiere PlayOnLinux.
+
+  sudo apt install PlayOnLinux
+
+. Lade Photoshop CC 2015 in der 32-Bit Version herunter.
+.. Klicke https://helpx.adobe.com/premiere-elements/kb/premiere-elements-downloads.html?red=a&tduid=b95dd8aa6c7badbb81560a1a3dec9cca&url=https://helpx.adobe.com/premiere-elements/kb/premiere-elements-downloads.html[>>Hier<<] bevor du den Link im nächsten Schritt besuchst.
+.. Klicke http://prodesigntools.com/trials3/AdobeProducts/PHSP/16/win32/Photoshop_16_LS20_win32.7z[>>Hier<<] um Photoshop herunterzuladen.
+. Entpacke das heruntergeladene Archiv auf den Desktop.
+. Laden den Crack "amtemu.v0.9.2-painter.exe" herunter: https://mega.nz/#F!5vBWFbpb!gdRwoiNcB2CSmEf_-4wkWA (SHA-1 Hash: CAAD125358D2AE6D217E74CFCD175AC81C43C729)
+
+. Klicke https://raw.githubusercontent.com/corbindavenport/creative-cloud-linux/master/creativecloud.sh[>>HIER<<] und speichere das Skript mit kbd:[Ctrl+S] auf dem Desktop. 
+
+. Starte PlayOnLinux.
+. Wähle menu:Tools[Run a local script].
+. Klicke btn:[Next].
+. Öffne das vorher heruntergeladene Skript.
+. Bestätige die nächsten zwei Sicherheitswarnungen.
+. Klicke immer auf btn:[Next] und akzeptiere alles bis du gefragt wirst: *"Please choose an installation method"*
+. Wähle *"Download the program"* und klicke zweimal auf btn:[Next].
+. Im Fenster *"Adobe Application Manager"* klicke auf btn:[Quit].
+. Klicke auf btn:[Next] und beende damit das PlayOnLinux Skript.
+
+=== Photoshop installieren
+
+. Deaktiviere die Internetverbindung.
++
+image::disconnect.png[]
+
+. Klicke auf die Schaltfläche btn:[Configure] in PlayOnLinux.
+. Wähle den Reiter *"Miscellaneous"* aus und klicke auf btn:[Run a .exe file in this virtual drive].
+. Öffne die Datei *"Set-up.exe"* in dem auf dem vorher entpackten Ordner *"Adobe CC 2015"*.
+. Klicke auf *"Try"*.
+. Klicke auf btn:[Sign In].
+. Klicke auf btn:[Sign In Later].😄
+. Klicke auf btn:[Accept] und starte die Installation mit einem Klick auf btn:[Install].
+. Wenn es keine Fehlermeldung gab schließe den Installer mit einem Klick auf btn:[Close].
++
+Falls eine Fehlermeldung erscheint findest du mögliche Problemlösungen auf https://github.com/corbindavenport/creative-cloud-linux/wiki/Troubleshooting
+. Du kannst deine Internetverbindung jetzt wieder aktivieren.
+
+=== Kopierschutz deaktivieren
+
+. Klicke auf die Schaltfläche btn:[Configure] in PlayOnLinux.
+. Wähle den Reiter *"Miscellaneous"* aus und klicke auf btn:[Run a .exe file in this virtual drive].
+. Öffne die vorher heruntergeladene Datei *amtemu.v0.9.2-painter.exe*.
++
+NOTE: Das geöffnete Fenster hat einen starken Grafikfehler, bei dem die Beschriftung aller Schaltflächen manchmal verschwindet. 
+. Bewege die Maus in dem neu geöffneten Fenster langsam von oben nach unten bis eine blaue Umrandung erscheint.
++
+image::amtemu_select.png[]
+. Klicke und wähle *"Adobe Photoshop CC 2015.5"*.
+. Bewege die Maus vom unteren rechten Rand des Fensters langsam Richtung Mitte bis eine blaue Umrandung erscheint.
++
+image::amtemu_patch.png[]
+. Klicke mit der linken Maustaste. (Die Schaltfläche heißt eigentlich "Install")
+. Es öffnet sich ein Dateiauswahldialog. Drücke solange auf image:folder_up.png[] bis du in deinem Home-Verzeichnis bist. Es müsste ein Ordner "PlayOnLinux's virtual drives" vorhanden sein.
+. Öffne die Datei *amtlib.dll* im Verzeichnis `PlayOnLinux's virtual drives/CreativeCloud/drive_c/Program Files/Adobe/Adobe Photoshop CC 2015 (32 Bit)/`
+. Schließe das Fenster.
+
+=== Verknüpfung erstellen
+
+. Klicke auf die Schaltfläche btn:[Configure] in PlayOnLinux.
+. Wähle den Reiter *"General"* aus und klicke auf btn:[Make a new shortcut from this virtual drive].
+. Wähle *"Photoshop.exe"* und klicke zweimal auf btn:[Next].
+. Klicke auf btn:[Cancel].
+. Klicke auf die Schaltfläche image:open_photoshop.png[]
+. Klicke im linken Seitenmenü auf *"Create a shortcut"* und klicke anschließend auf btn:[Next].
+
+=== Post-Installation
+
+Photoshop ist nun installiert und kann vom Desktop aus gestartet werden.
+
+Beim ersten Start von Photoshop öffnet sich ein "Welcome" Fenster mit einigen Grafikfehlern. Um es zu deaktivieren wähle menu:Edit[Preferences > General...] und setze einen Haken vor die Option *"Do Not Show Welcome Screen On Launch"*.
+
+[TIP]
+====
+Falls Photoshop nicht mehr startet obwohl es sonst ohne Probleme startet, können folgende Schritte das Problem beheben:
+
+. Starte PlayOnLInux. 
+. Klicke auf die Schaltfläche btn:[Configure] in PlayOnLinux.
+. Wähle den Reiter *"Wine"* aus und klicke auf btn:[Kill processes].
+====
+
+
+== Quellen
+
+- https://redd.it/5b9hxx[Reddit AMTEmu Checksums]
+- https://github.com/corbindavenport/creative-cloud-linux[Installing Creative Cloud on Linux]
+- http://prodesigntools.com/[Download Adobe Software]
+- http://mac-torrents.com/[Mac Torrents]
