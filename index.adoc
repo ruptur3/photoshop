@@ -77,7 +77,8 @@ Photoshop ist nun aktiviert und kann gestartet werden.
 +
 image::disconnect.png[]
 
-. Klicke auf die Schaltfläche btn:[Configure] in PlayOnLinux.
+. Klicke in PlayOnLinux auf die Schaltfläche *"Adobe Application Manager"*.
+. Klicke auf die Schaltfläche btn:[Configure].
 . Wähle den Reiter *"Miscellaneous"* aus und klicke auf btn:[Run a .exe file in this virtual drive].
 . Öffne die Datei *"Set-up.exe"* in dem auf dem vorher entpackten Ordner *"Adobe CC 2015"*.
 . Klicke auf *"Try"*.
@@ -91,7 +92,8 @@ Falls eine Fehlermeldung erscheint findest du mögliche Problemlösungen auf htt
 
 === Kopierschutz deaktivieren
 
-. Klicke auf die Schaltfläche btn:[Configure] in PlayOnLinux.
+. Klicke in PlayOnLinux auf die Schaltfläche image:open_photoshop.png[]
+. Klicke auf die Schaltfläche btn:[Configure].
 . Wähle den Reiter *"Miscellaneous"* aus und klicke auf btn:[Run a .exe file in this virtual drive].
 . Öffne die vorher heruntergeladene Datei *amtemu.v0.9.2-painter.exe*.
 +
@@ -110,7 +112,8 @@ image::amtemu_patch.png[]
 
 === Verknüpfung erstellen
 
-. Klicke auf die Schaltfläche btn:[Configure] in PlayOnLinux.
+. Klicke in PlayOnLinux auf die Schaltfläche image:open_photoshop.png[]
+. Klicke auf die Schaltfläche btn:[Configure].
 . Wähle den Reiter *"General"* aus und klicke auf btn:[Make a new shortcut from this virtual drive].
 . Wähle *"Photoshop.exe"* und klicke zweimal auf btn:[Next].
 . Klicke auf btn:[Cancel].
@@ -121,21 +124,27 @@ image::amtemu_patch.png[]
 
 Photoshop ist nun installiert und kann vom Desktop aus gestartet werden.
 
-Beim ersten Start von Photoshop öffnet sich ein "Welcome" Fenster mit einigen Grafikfehlern. Um es zu deaktivieren wähle menu:Edit[Preferences > General...] und setze einen Haken vor die Option *"Do Not Show Welcome Screen On Launch"*.
+Um einige Grafikfehler zu beheben solltest du noch Änderungen an den Voreinstellungen vornehmen:
 
-[TIP]
-====
-Falls Photoshop nicht mehr startet obwohl es sonst ohne Probleme startet, können folgende Schritte das Problem beheben:
+. Starte Photoshop.
+. Öffne die Voreinstellungen indem du menu:Edit[Preferences > General] wählst. (kbd:[Ctrl+K])
+. Im Reiter *"General"* setze einen Haken vor die Option *"Do Not Show Welcome Screen On Launch"*.
+. Im Reiter *"Tools"* entferne den Haken vor der Option *"Show Tool Tips"*.
+. Schließe das Fenster mit einem Klick auf btn:[OK].
 
-. Starte PlayOnLInux. 
-. Klicke auf die Schaltfläche btn:[Configure] in PlayOnLinux.
+=== Fehlerbehebung
+
+Falls Photoshop nicht mehr startet obwohl es sonst ohne Probleme gestartet ist, könnten folgende Schritte das Problem beheben:
+
+. Starte PlayOnLinux. 
+. Klicke auf die Schaltfläche image:open_photoshop.png[]
+. Klicke auf die Schaltfläche btn:[Configure].
 . Wähle den Reiter *"Wine"* aus und klicke auf btn:[Kill processes].
-====
 
 
 == Quellen
 
-- https://redd.it/5b9hxx[Reddit AMTEmu Checksums]
-- https://github.com/corbindavenport/creative-cloud-linux[Installing Creative Cloud on Linux]
-- http://prodesigntools.com/[Download Adobe Software]
-- http://mac-torrents.com/[Mac Torrents]
+- https://redd.it/5b9hxx (Reddit AMTEmu Checksums)
+- https://github.com/corbindavenport/creative-cloud-linux (Installing Creative Cloud on Linux)
+- http://prodesigntools.com/ (Download Adobe Software)
+- http://mac-torrents.com/ 
